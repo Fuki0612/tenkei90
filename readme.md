@@ -1,0 +1,2 @@
+atcoderで競プロの典型90問をPythonで解いた際の解答です
+https://atcoder.jp/contests/typical90/tasks/typical90_d
